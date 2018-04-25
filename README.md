@@ -16,12 +16,12 @@ The questions answered are:
 
 The datafiles are present in the repository in CSV format.
 
-Flights.csv - contains the numbers of annual flight operations - domestic and international.
-LoadFactor.csv - contains the monthly load factors from year 2003-2017
-On-Time-Data.csv - contains the annual time performance of all flight operations form 1995-2017
-Operating_ProfitLoss.csv - contains the quarterly profit/loss of all airlines combined from 2000-2017
-Operating_Revenue.csv - contains the quarterly revenue of all airlines combined from 2000-2017
-Passengers.csv - contains the monthly passenger count for all airlines combined from 2002-2017
+1. Flights.csv - contains the numbers of annual flight operations - domestic and international.
+2. LoadFactor.csv - contains the monthly load factors from year 2003-2017
+3. On-Time-Data.csv - contains the annual time performance of all flight operations form 1995-2017
+4. Operating_ProfitLoss.csv - contains the quarterly profit/loss of all airlines combined from 2000-2017
+5. Operating_Revenue.csv - contains the quarterly revenue of all airlines combined from 2000-2017
+6. Passengers.csv - contains the monthly passenger count for all airlines combined from 2002-2017
 
 ## Requirements
 
